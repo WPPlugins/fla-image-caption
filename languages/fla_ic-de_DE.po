@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fla_Image Caption\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Flavian Imlig <flavian@imlig.info>\n"
+"Language-Team: Flavian Imlig <flavian@imlig.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: add_plugin_page()
+msgid "Options"
+msgstr "Einstellungen"
+
+#: fla_getPluginOptions()
+msgid "How to deal with missing image authors?"
+msgstr "Umgang mit fehlenden Bildautoren"
+
+#: fla_getPluginOptions()
+msgid "Info: How to deal with missing image authors?"
+msgstr "Info: Umgang mit fehlenden Bildautoren"
+
+#: fla_getPluginOptions()
+msgid "Mode"
+msgstr "Modus"
+
+#: fla_getPluginOptions()
+msgid "empty"
+msgstr "keinen Autor/keine Autoren anzeigen"
+
+#: fla_getPluginOptions()
+msgid "Default author"
+msgstr "Standardautor"
+
+#: fla_getPluginOptions()
+msgid "Appearance"
+msgstr "Erscheinungsbild"
+
+#: fla_getPluginOptions()
+msgid "Wrapping of the image author"
+msgstr "Einbindung des Bildautors"
+
+#: fla_getPluginOptions()
+msgid "HTML-Code allowed"
+msgstr "HTML-Code möglich"
+
+#: fla_getPluginOptions()
+msgid "Current setting"
+msgstr "Aktuelle Einstellung"
+
+#: fla_getPluginOptions()
+msgid "Author"
+msgstr "Bildautor"
+
+#: fla_getPluginOptions()
+msgid "Glue"
+msgstr "Trennzeichen zwischen Bildautoren"
+
+#: fla_getPluginOptions()
+msgid "Prefix"
+msgstr "Präfix"
+
+#: fla_getPluginOptions()
+msgid "Suffix"
+msgstr "Suffix"
+
+#: fla_getPluginOptions()
+msgid "Sync of caption"
+msgstr "Synchronisierung der Beschriftung"
+
+#: fla_getPluginOptions()
+msgid "Not implemented yet!"
+msgstr "<strong>Nicht nicht implementiert!</strong>"
+
+#: fla_getPluginOptions()
+msgid "Sync mode"
+msgstr "Synchronisierungsmodus"
+
+#: fla_getPluginOptions()
+msgid "no sync"
+msgstr "keine Synchronisation"
+
+#: fla_getPluginOptions()
+msgid "attachment overrides page/post"
+msgstr "Attachment überschreibt Page/Post"
+
+#: fla_getPluginOptions()
+msgid "page/post overrides attachment"
+msgstr "Page/Post überschreibt Attachment"
+
+#: create_admin_page()
+msgid "Plugin to insert image authors automatically"
+msgstr "Plugin für die automatische Anzeige von Bildautoren in Bildunterschriften"
+
+#: create_admin_page()
+msgid "Plugin accesses the"
+msgstr "Zugriff über den"
+
+#: create_admin_page()
+msgid "By default, image authors are read out of the description of the respective image."
+msgstr "Die Bildautoren werden standardmässig ausgelesen aus der Beschreibung der einzelnen Bilder."
+
+#: create_admin_page()
+msgid "Therefore, they have to be tagged in a specific way:"
+msgstr "Dazu müssen sie speziell getagt werden:"
+
+#: create_admin_page()
+msgid "In the description of the respective image, accessible under"
+msgstr "In der Beschreibung des jeweiligen Bildes, zugreifbar unter"
+
+#: create_admin_page()
+msgid "the image author (or multiple image authors) have to be wrapped in <code>author</code> tags"
+msgstr "müssen der Bildautor (oder die Bildautoren) in <code>autor</code>-Tags gesetzt werden"
+
+#: create_admin_page()
+msgid "If there are no authors in image description, the plugin tries to read authors from the image's Exif information."
+msgstr "Falls in der Beschreibung keine Bildautoren gefunden werden, wird versucht diese aus den EXIF-Informationen des hochgeladenen Bildes zu lesen."
+
+#: create_admin_page()
+msgid "If successful, image authors are automatically saved into image description."
+msgstr "Im erfolgreichen Falle werden die Bildautoren in der Beschreibung des jeweiligen Bildes gespeichert."
+
